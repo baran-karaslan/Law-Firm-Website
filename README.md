@@ -4,7 +4,6 @@ This project is a modern and responsive web interface designed for a professiona
 
 ## 🚀 Live Demo
 - **Netlify:** [https://hdkorkmazlar.av.tr/]
-- **GitHub Pages:** [https://baran-karaslan.github.io/Law-Firm-Website/]
 
 ## 🛠 Features
 - **Data-Driven:** All content is managed via `JSON` and `TXT` files.

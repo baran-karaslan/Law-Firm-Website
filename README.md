@@ -7,7 +7,7 @@ This project is a modern and responsive web interface designed for a professiona
 - **GitHub Pages:** [https://baran-karaslan.github.io/Law-Firm-Website/]
 
 ## 🛠 Features
-- **Data-Driven:** All content is managed via `JSON` and `TXT` files in the `/data` folder.
+- **Data-Driven:** All content is managed via `JSON` and `TXT` files.
 - **SEO Ready:** Custom `robots.txt` and `sitemap.xml` included.
 - **Performance:** Configured with `netlify.toml` for automated deployment.
 - **Responsive:** Mobile-friendly design with custom Apple Touch Icons.

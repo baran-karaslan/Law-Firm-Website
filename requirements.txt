@@ -1,0 +1,3 @@
+# No backend dependencies required.
+# Frontend: HTML5, CSS3, JavaScript.
+# Deployment: Netlify / GitHub Pages.

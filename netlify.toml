@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "http://hdkorkmazlar.av.tr/*"
+  to = "https://hdkorkmazlar.av.tr/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.hdkorkmazlar.av.tr/*"
+  to = "https://hdkorkmazlar.av.tr/:splat"
+  status = 301
+  force = true
